@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/TestMap.umap",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/TestMap.umap"
+			]
+		}
+	]
+}
