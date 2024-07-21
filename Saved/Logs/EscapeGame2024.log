@@ -1224,3 +1224,53 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.07.21-21.19.25:828][429]LogContentBrowser: Attempting asset rename: NewFolder -> Elements
 [2024.07.21-21.19.25:828][429]LogContentBrowser: End creating deferred item NewFolder
 [2024.07.21-21.19.34:477][419]LogDerivedDataCache: C:/Users/aless/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.037 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 366 files in 671 folders with total size 3 MiB.
+[2024.07.21-21.26.11:069][ 87]LogSlate: Window 'New Level' being destroyed
+[2024.07.21-21.26.22:085][896]LogSlate: Window 'New Level' being destroyed
+[2024.07.21-21.26.22:092][896]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.21-21.26.22:092][896]LightingResults: New page: Lighting Build
+[2024.07.21-21.26.22:092][896]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.07.21-21.26.22:111][896]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.07.21-21.26.22:111][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.21-21.26.22:112][896]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.07.21-21.26.22:112][896]MapCheck: New page: Map Check
+[2024.07.21-21.26.22:112][896]LightingResults: New page: Lighting Build
+[2024.07.21-21.26.22:115][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.21-21.26.22:134][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.07.21-21.26.22:154][896]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.21-21.26.22:154][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.21-21.26.22:158][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.21-21.26.22:160][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.21-21.26.22:163][896]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.07.21-21.26.22:163][896]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-21.26.22:163][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.21-21.26.22:164][896]LogAIModule: Creating AISystem for world Untitled_2
+[2024.07.21-21.26.22:216][896]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.21-21.26.22:220][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.21-21.26.22:221][896]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.21-21.26.22:221][896]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2024.07.21-21.26.38:638][394]LogSlate: Window 'Save Level As' being destroyed
+[2024.07.21-21.26.38:690][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.07.21-21.26.38:697][394]LogSavePackage: Moving output files for package: /Game/Game/Levels/AlessTestMap
+[2024.07.21-21.26.38:697][394]LogSavePackage: Moving 'C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Saved/AlessTestMap114C7E23480C02BF6FB269AF02EEB6E0.tmp' to 'C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Levels/AlessTestMap.umap'
+[2024.07.21-21.26.38:715][394]LogFileHelpers: Saving map 'AlessTestMap' took 0.069
+[2024.07.21-21.26.38:715][394]Cmd: MAP LOAD FILE="C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Levels/AlessTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.21-21.26.38:715][394]LightingResults: New page: Lighting Build
+[2024.07.21-21.26.38:715][394]LoadErrors: New page: Loading map: AlessTestMap.umap
+[2024.07.21-21.26.38:725][394]LogWorld: UWorld::CleanupWorld for AlessTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.21-21.26.38:725][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.21-21.26.38:725][394]MapCheck: New page: Map Check
+[2024.07.21-21.26.38:725][394]LightingResults: New page: Lighting Build
+[2024.07.21-21.26.38:729][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.21-21.26.38:730][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.07.21-21.26.38:733][394]LogAudio: Display: Audio Device (ID: 1) registered with world 'AlessTestMap'.
+[2024.07.21-21.26.38:733][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-21.26.38:733][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.21-21.26.38:733][394]LogAIModule: Creating AISystem for world AlessTestMap
+[2024.07.21-21.26.38:789][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.21-21.26.38:793][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.21-21.26.38:796][394]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.21-21.26.38:797][394]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,088ms to complete.
+[2024.07.21-21.26.38:798][394]AssetCheck: New page: Asset Save: AlessTestMap
+[2024.07.21-21.26.38:798][394]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game/Levels/AlessTestMap.AlessTestMap
+[2024.07.21-21.27.23:127][472]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.21-21.27.25:088][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
