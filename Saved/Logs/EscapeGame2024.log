@@ -1090,3 +1090,43 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.22-13.38.48:985][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
 [2024.07.22-13.38.48:985][  0]LogShaderCompilers: Display: ================================================
 [2024.07.22-13.38.49:159][  0]LogAssetRegistry: Display: Asset registry cache written as 15.8 MiB to C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Intermediate/CachedAssetRegistry_*.bin
+[2024.07.22-13.38.51:806][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-13.38.52:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-13.38.52:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-13.38.52:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-13.38.52:809][  0]LogSlate: Took 0.019225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.07.22-13.38.54:574][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.54:859][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.07.22-13.38.54:905][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.54:952][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.07.22-13.38.54:953][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.54:959][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.07.22-13.38.54:960][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.54:999][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.07.22-13.38.55:024][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.55:040][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.07.22-13.38.55:069][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.55:088][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.07.22-13.38.55:090][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.55:104][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.07.22-13.38.55:105][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.55:120][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.07.22-13.38.55:121][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.55:127][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.07.22-13.38.55:127][  0]LogPakFile: Initializing PakPlatformFile
+[2024.07.22-13.38.55:133][  0]LogPakFile: Display: Mounted Pak file 'G:/Unreal/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.07.22-13.39.01:215][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.07.22-13.39.01:669][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.07.22-13.39.01:777][  0]LogSlate: Took 0.027403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.07.22-13.39.02:052][  0]LogViewport: Scene viewport resized to 1163x651, mode Windowed.
+[2024.07.22-13.39.07:112][  0]LogStall: Startup...
+[2024.07.22-13.39.07:114][  0]LogStall: Startup complete.
+[2024.07.22-13.39.07:186][  0]LogLoad: (Engine Initialization) Total time: 43.61 seconds
+[2024.07.22-13.39.07:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.07.22-13.39.07:331][  0]LogAssetRegistry: AssetRegistryGather time 0.3472s: AssetDataDiscovery 0.1474s, AssetDataGather 0.1689s, StoreResults 0.0308s.
+[2024.07.22-13.39.07:413][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2024.07.22-13.39.07:530][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.07.22-13.39.07:923][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.07.22-13.39.07:930][  1]Running Python start-up script 'G:/Unreal/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.032951 secs
+[2024.07.22-13.39.08:035][  1]LogD3D12RHI: Cannot end block when stack is empty
