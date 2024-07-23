@@ -23,7 +23,9 @@
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerInventorySelect.uasset",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Interfaces/BPI_Interactable.uasset",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Interfaces/BPI_Pickable.uasset",
-				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Elements/BP_TestInteract.uasset"
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Elements/BP_TestInteract.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Player/AC_Inventory.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/BPE_EnumItemTypes.uasset"
 			]
 		}
 	]
