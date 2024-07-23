@@ -18,7 +18,12 @@
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerJump.uasset",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerCrouch.uasset",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_Pause.uasset",
-				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerLook.uasset"
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerLook.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerDropItem.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerInventorySelect.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Interfaces/BPI_Interactable.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Interfaces/BPI_Pickable.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Elements/BP_TestInteract.uasset"
 			]
 		}
 	]
