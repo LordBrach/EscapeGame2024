@@ -25,7 +25,11 @@
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Interfaces/BPI_Pickable.uasset",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Elements/BP_TestInteract.uasset",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Player/AC_Inventory.uasset",
-				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/BPE_EnumItemTypes.uasset"
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/BPE_EnumItemTypes.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/UI/W_Inventory.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Art/ProgDebug/something_inv.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Art/ProgDebug/empty_inv.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/UI/HUD_Base.uasset"
 			]
 		}
 	]
