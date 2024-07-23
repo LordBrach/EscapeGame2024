@@ -8,7 +8,17 @@
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/TestMap.umap",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/TestMap.umap",
 				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Levels/TestMap.umap",
-				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Levels/AlessTestMap.umap"
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Levels/AlessTestMap.umap",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Player/PC_Player.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/General/GM_EscapeGame.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/IMC_PlayerControls.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerMovement.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerInteract.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerJump.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerCrouch.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_Pause.uasset",
+				"C:/Users/aless/Documents/Unreal Projects/EscapeGame2024/Content/Game/Blueprints/Controls/Inputs/IA_PlayerLook.uasset"
 			]
 		}
 	]
